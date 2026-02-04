@@ -1,3 +1,4 @@
+[신주청년회 앱] <br> <br>
 HCYG Android App입니다.
 아래를 클릭해서 다운로드 받으시고 설치하시기 바랍니다.<br><br>
 <a href="https://github.com/sohyemini/hcyg_app/raw/main/HCYG2-app-release.apk">
