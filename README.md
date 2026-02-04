@@ -1,4 +1,7 @@
 [신주청년회 앱] <br> <br>
+
+1. 한글이름을 바꾸지 마세요. 핸디캡을 가져오기 위해서는 한글이름만 사용해 주세요. <br>
+
 HCYG Android App입니다.
 아래를 클릭해서 다운로드 받으시고 설치하시기 바랍니다.<br><br>
 <a href="https://github.com/sohyemini/hcyg_app/raw/main/HCYG2-app-release.apk">
